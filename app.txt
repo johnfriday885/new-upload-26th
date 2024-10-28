@@ -1,1 +1,2 @@
-introduction to git initialization
+beginners toturia
+my first learning experince
